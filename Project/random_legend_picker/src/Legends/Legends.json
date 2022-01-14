@@ -1,0 +1,76 @@
+[{
+	"name": "Bloodhound",
+	"portrait": "src/Legends/Bloodhound.png"
+},
+{
+	"name": "Gibraltar",
+	"portrait": "src/Legends/Gibraltar.png"
+},
+{
+	"name": "Lifeline",
+	"portrait": "src/Legends/Lifeline.png"
+},
+{
+	"name": "Pathfinder",
+	"portrait": "src/Legends/Pathfinder.png"
+},
+{
+	"name": "Wraith",
+	"portrait": "src/Legends/Wraith.png"
+},
+{
+	"name": "Bangalore",
+	"portrait": "src/Legends/Bangalore.png"
+},
+{
+	"name": "Caustic",
+	"portrait": "src/Legends/Caustic.png"
+},
+{
+	"name": "Mirage",
+	"portrait": "src/Legends/Mirage.png"
+},
+{
+	"name": "Octane",
+	"portrait": "src/Legends/Octane.png"
+},
+{
+	"name": "Wattson",
+	"portrait": "src/Legends/Wattson.png"
+},
+{
+	"name": "Crypto",
+	"portrait": "src/Legends/Crypto.png"
+},
+{
+	"name": "Revenant",
+	"portrait": "src/Legends/Revenant.png"
+},
+{
+	"name": "Loba",
+	"portrait": "src/Legends/Loba.png"
+},
+{
+	"name": "Rampart",
+	"portrait": "src/Legends/Rampart.png"
+},
+{
+	"name": "Horizon",
+	"portrait": "src/Legends/Horizon.png"
+},
+{
+	"name": "Fuse",
+	"portrait": "src/Legends/Fuse.png"
+},
+{
+	"name": "Valkyrie",
+	"portrait": "src/Legends/Valkyrie.png"
+},
+{
+	"name": "Seer",
+	"portrait": "src/Legends/Seer.png"
+},
+{
+	"name": "Ash",
+	"portrait": "src/Legends/Ash.png"
+}]
